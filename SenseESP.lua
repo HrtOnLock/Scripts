@@ -1,3 +1,6 @@
+-- Load Sirius Menu 
+loadstring(game:HttpGet('https://sirius.menu/sirius'))()
+
 -- Load the Sense ESP Library
 local Sense = loadstring(game:HttpGet('https://sirius.menu/sense'))()
 
